@@ -5,7 +5,7 @@ Simple application that uses flask in the back-end and react/Formik/rxjs in the 
 ### Start Back-end server
 
 ```sh
-$ pip install flask flask-restful Flask-PyMongo
+$ pip install flask flask-restful Flask-PyMongo flask-cors
 $ python main.py
 ```
 
