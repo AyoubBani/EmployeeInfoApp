@@ -1,6 +1,6 @@
 # Employee Info Application
 
-Simple application that uses flask in the back-end and react/Formik/rxjs in the front-end
+Simple application that uses flask in the back-end and react, MaterialUI, Formik, rxjs in the front-end
 
 ### Start Back-end server
 
